@@ -18,15 +18,7 @@ document.write("<p>Semester: 5th Semester</p>");
 const name = "Ankit Nag";
 const scholar = 2424113;
 const semester = "5th";
-const course = "B.Sc.IT";
-const college = "DSVV"
-
-console.log("Name :", name);
-console.log("Scholar Number :", scholar);
-console.log("Semester :", semester);
-console.log("College Name :", college);
-
-// Task 6 - Data Types
+const course = "B.Sc.n
 
 // String
 let studentName = "Ankit Nag";
