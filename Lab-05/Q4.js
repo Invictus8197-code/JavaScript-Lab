@@ -2,9 +2,9 @@
 
 const PIN = 8192
 
-let guess = String("Enter guess number");
+let guessPIN = 8192;
 
-if (guess == PIN) {
+if (guessPIN == PIN) {
     console.log("Access Granted");
 }
 
